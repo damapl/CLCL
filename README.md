@@ -1,4 +1,4 @@
-CCL
+CLCL
 ===
 
-Cos in Common Lisp
+CosLove in Common Lisp
